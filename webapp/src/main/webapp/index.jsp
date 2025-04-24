@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2>	Created by, Manjeet Singh <h2>
+   <h2>	Created by, Manjeet Singh Grover <h2>
   
 </form>
