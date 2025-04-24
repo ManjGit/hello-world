@@ -33,6 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h2>	Created by, Manjeet Singh Grover <h2>
-   <h3> Making it Automatic <h3>
   
 </form>
