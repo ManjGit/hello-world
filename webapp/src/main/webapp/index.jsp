@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h2>	Created by, Manjeet Singh Grover <h2>
-   <h3> making it automatic from end to end with Jenkins and Ansiblee<h3>
+   <h3> Complete automation using Jenkins and Ansible <h3>
   
 </form>
